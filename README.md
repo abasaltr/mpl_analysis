@@ -1,4 +1,4 @@
-# mpl_homework5
+# mpl_analysis
 
 Please note the following points of interest below regarding this assignment:
 
